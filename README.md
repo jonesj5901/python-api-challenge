@@ -1,9 +1,5 @@
 # Unit 6: Python APIs
 
-## Overview
-
-This unit, we will cover the use of third-party APIs with Python. We’ll programmatically obtain and parse data from sources such as OpenWeatherMap, the U.S. Census, OMDb, and more. We will also plot DataFrames from the API data using Matplotlib.
-
 ## Objectives
 
 * Make `get` requests with the Request library.
